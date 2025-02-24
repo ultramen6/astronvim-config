@@ -7,7 +7,7 @@
 1. Убедитесь, что Neovim и AstroNvim установлены.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/you/my_astro_repo.git
+   git clone git@github.com:ultramen6/astronvim-config.git
    ```
 3. Запуск:
 
